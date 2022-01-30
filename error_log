@@ -1,0 +1,90 @@
+[21-Jan-2022 18:19:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[21-Jan-2022 18:19:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[21-Jan-2022 18:19:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 18:19:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 18:20:04 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[21-Jan-2022 18:20:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[21-Jan-2022 18:20:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 18:20:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 18:20:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:16:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[21-Jan-2022 19:16:05 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[21-Jan-2022 19:16:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:16:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:17:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[21-Jan-2022 19:17:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[21-Jan-2022 19:17:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:17:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:17:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:17:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[21-Jan-2022 19:17:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 08:16:08 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 08:16:08 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[22-Jan-2022 08:16:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 08:16:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 08:16:48 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 08:16:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 08:16:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 08:16:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 12:56:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 12:56:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[22-Jan-2022 12:56:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 12:56:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 12:57:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 12:57:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 12:57:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 12:57:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:09:16 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 16:09:16 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[22-Jan-2022 16:09:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:09:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:09:22 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 16:09:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 16:09:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:09:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:12:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:12:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:12:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 16:12:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 16:12:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:12:47 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 16:12:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 16:12:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 16:13:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:09:35 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 17:09:35 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[22-Jan-2022 17:09:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:09:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:09:46 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 17:09:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 17:09:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:10:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 17:10:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[22-Jan-2022 17:10:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:10:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:10:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 17:10:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 17:10:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:10:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:25:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:25:35 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[22-Jan-2022 17:25:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[22-Jan-2022 17:25:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[22-Jan-2022 17:25:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[23-Jan-2022 01:28:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[24-Jan-2022 22:47:03 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[24-Jan-2022 22:47:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[24-Jan-2022 22:47:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/includes/m_navbar.php on line 33
+[24-Jan-2022 22:47:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/serbatek/mafs.serbateknologi.xyz/security.php on line 14
+[24-Jan-2022 22:47:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[24-Jan-2022 22:47:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:47:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:51:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:51:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
+[24-Jan-2022 22:52:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/serbatek/mafs.serbateknologi.xyz/code.php on line 124
+[24-Jan-2022 22:52:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/serbatek/mafs.serbateknologi.xyz/includes/scripts.php on line 28
